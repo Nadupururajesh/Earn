@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6215264117",
+    "firebase_url": "https://earn-ffd5a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "earn-ffd5a",
+    "storage_bucket": "earn-ffd5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6215264117:android:062989dd8e1ee51e8e953c",
+        "android_client_info": {
+          "package_name": "com.rajantech.earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6215264117-clflsiki82vct0eu4h988sbum58mugqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH76FfaE125HNddfpuAzbf_jIsJE8M4WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6215264117-clflsiki82vct0eu4h988sbum58mugqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
